@@ -1,2 +1,2 @@
 # student1
-# hello world
+## Description\n\nGitHub for dummies
